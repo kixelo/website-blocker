@@ -7,7 +7,7 @@ Atom
 ```
 ## Scheduling the Python program on Linux/MAC
 ```
-I used <b>crontab</b> (Linux, MAC) to run the program at specified times, for Windows use task scheduler.
+I used crontab (Linux, MAC) to run the program at specified times, for Windows use task scheduler.
 ```
 
 ## App idea:
