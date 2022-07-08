@@ -12,4 +12,8 @@ App created according to the Udemy lesson by Ardit Sulce.
 ```
 ## App Images:
 <img src="https://github.com/kixelo/website-blocker/blob/main/Screenshot%20from%202022-07-08%2019-06-53.png" />
+<img src="https://github.com/kixelo/website-blocker/blob/main/Screenshot%20from%202022-07-08%2019-08-11.png" />
+<img src="https://github.com/kixelo/website-blocker/blob/main/Screenshot%20from%202022-07-08%2019-08-40.png" />
+<img src="https://github.com/kixelo/website-blocker/blob/main/Screenshot%20from%202022-07-08%2019-09-00.png" />
+<img src="https://github.com/kixelo/website-blocker/blob/main/Screenshot%20from%202022-07-08%2019-16-11.png" />
 
